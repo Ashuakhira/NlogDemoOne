@@ -1,0 +1,4 @@
+2023-05-04 21:58:13.7272|DEBUG|NlogDemo.Nlog|started the else condition
+2023-05-04 21:58:13.7447|INFO|NlogDemo.Nlog|The Value Are added succesfully
+2023-05-04 21:58:38.5563|DEBUG|NlogDemo.Nlog|started the else condition
+2023-05-04 21:58:38.5867|INFO|NlogDemo.Nlog|The Value Are added succesfully
